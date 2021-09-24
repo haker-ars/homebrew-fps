@@ -1,4 +1,4 @@
-# FPS
+<h1><a href='https://github.com/haker-ars/fps/archive/refs/tags/v0.2.tar.gz'>FPS</a></h1>
 
 <h3>Warning! Only for Unix systems.</h3><br>
 I have maked the fps counter, and<br>
