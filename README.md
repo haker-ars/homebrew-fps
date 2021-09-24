@@ -6,7 +6,7 @@ this is a simple counter but,<br>
 you can install it in command:<br>
 <code>git clone https://github.com/haker-ars/fps.git</code><br>
 or with brew:<br>
-<code>brew install --build-from-source fps</code><br>
+<code>brew tap haker-ars/fps</code><br>
 if you have this text:<br>
 <code>Permission denied</code><br>
 do this command:<br>
